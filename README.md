@@ -1,2 +1,1 @@
-# Tic-Tac-Toe
- Make Tic Tac Toe Game
+[OPEN IN BROWSER](https://smos-github.github.io/Tic-Tac-Toe/)

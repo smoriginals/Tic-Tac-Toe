@@ -1,1 +1,1 @@
-[OPEN IN BROWSER](https://smos-github.github.io/Tic-Tac-Toe/)
+[OPEN IN BROWSER](https://smoriginals.github.io/Tic-Tac-Toe/)
